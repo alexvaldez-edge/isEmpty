@@ -1,5 +1,5 @@
 {
-  "name": "isempty_EdgeOFS",
+  "name": "isempty_edgeofs",
   "version": "1.0.0",
   "description": "isEmpty npm package",
   "main": "index.js",
