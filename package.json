@@ -1,0 +1,19 @@
+{
+  "name": "isempty",
+  "version": "1.0.0",
+  "description": "isEmpty npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexvaldez-edge/isEmpty.git"
+  },
+  "author": "Edge OFS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexvaldez-edge/isEmpty/issues"
+  },
+  "homepage": "https://github.com/alexvaldez-edge/isEmpty#readme"
+}
